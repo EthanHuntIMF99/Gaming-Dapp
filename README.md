@@ -109,7 +109,8 @@ cd GameDapp
 2. Compile and deploy the smart contract:
    ```sh
    npx hardhat compile
-   npx hardhat run scripts/deploy.js --network localhost
+   npx hardhat ignition deploy ignition/modules/GameScores.js --network localhost
+
    ```
 
 ## Known Issues and Troubleshooting
