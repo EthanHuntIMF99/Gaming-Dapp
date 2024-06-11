@@ -69,8 +69,9 @@ cd GameDapp
    cd ../ArmorAlley
    ```
 
-2. Install dependencies:
+2. Clone the Repo $ Install dependencies:
    ```sh
+   git clone https://github.com/scottschiller/ArmorAlley/tree/master
    npm install
    ```
 
