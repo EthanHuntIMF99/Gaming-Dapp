@@ -15,7 +15,7 @@ GameDapp is a decentralized gaming platform built on Hedera that integrates with
 ## Setup Instructions
 
 ### Prerequisites
-- Node.js (>= 14.x)
+- Node.js (>= 18.x)
 - npm or yarn
 - MongoDB
 - ffmpeg (for building game assets)
